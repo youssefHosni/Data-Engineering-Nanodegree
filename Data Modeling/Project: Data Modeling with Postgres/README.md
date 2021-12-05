@@ -114,11 +114,11 @@ artists
 - longitude
 
 time
-	- start_time   PRIMARY KEY
-	- hour
-	- day
-	- week
-	- month
-	- year
-	- weekday
+- start_time   PRIMARY KEY
+- hour
+- day
+- week
+- month
+- year
+- weekday
 ```
