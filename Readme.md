@@ -8,7 +8,7 @@
     2. [Relational Data Models](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Lesson%202.%20Relational%20Data%20Models)
     3. [Project: Data Modeling with PostegreSQL](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Project:%20Data%20Modeling%20with%20Postgres)
     4. [NoSQL Data Models](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Lesson%203.%20NoSQL%20Data%20Models) 
-    5. Project: Data Modeling with Apache Casandra 
+    5. [Project: Data Modeling with Apache Casandra](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Project:%20Data%20Modeling%20With%20Apache%20Cassandra) 
 3. Cloud Data Warehouses
 4. Data Lakes With Spark 
 5. Data Pipe lines with Airflow 
