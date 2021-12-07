@@ -10,6 +10,7 @@
     4. [NoSQL Data Models](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Lesson%203.%20NoSQL%20Data%20Models) 
     5. [Project: Data Modeling with Apache Casandra](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Project:%20Data%20Modeling%20With%20Apache%20Cassandra) 
 3. Cloud Data Warehouses
-4. Data Lakes With Spark 
-5. Data Pipe lines with Airflow 
+    1.
+5. Data Lakes With Spark 
+6. Data Pipe lines with Airflow 
 
