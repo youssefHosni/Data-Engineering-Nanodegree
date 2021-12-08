@@ -10,7 +10,7 @@
     4. [NoSQL Data Models](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Lesson%203.%20NoSQL%20Data%20Models) 
     5. [Project: Data Modeling with Apache Casandra](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Data%20Modeling/Project:%20Data%20Modeling%20With%20Apache%20Cassandra) 
 3. Cloud Data Warehouses
-    1. Introduction to Data Warehouses
+    1. [Introduction to Data Warehouses](https://github.com/youssefHosni/Data-Engineering-Nanodegree/tree/main/Cloud%20Data%20Warehouses/1.%20Introduction%20to%20Data%20Warehouses)
     2. Introduction to Cloud Computing and AWS
     3. Implementing Data Warehouses on AWS
     4. Project: Data Warehouse
